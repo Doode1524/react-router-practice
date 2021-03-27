@@ -3,7 +3,7 @@ import React from 'react'
 const StreamList = () => {
     return (
         <div>
-           Stream List 
+           Stream List
         </div>
     )
 }
