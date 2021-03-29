@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 477853956911-j8d3b4ucs2aabmb7v6k7us105q2u76gu.apps.googleusercontent.com
+
+
+const NodeMediaServer = require('node-media-server');
